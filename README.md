@@ -1,6 +1,7 @@
 # Cotizador-de-criptomonedas
 
-## Api de cryptoCompare
+## CryptoCompare API
+
 
 ---
 ### To use and practice with the project follow these steps
